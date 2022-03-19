@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication5", "WebApplication5\WebApplication5.csproj", "{1E2EA8CD-BE76-474E-8ACB-A8D69F34B368}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "identity", "identity\identity.csproj", "{1E2EA8CD-BE76-474E-8ACB-A8D69F34B368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
